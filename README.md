@@ -32,10 +32,10 @@ map 포트폴리오작성중 나중에 추가 설명붙힘
 
 <img src="https://user-images.githubusercontent.com/48806275/129308795-a8ce25f8-8f33-4e2a-924e-0a994559558d.png" width="30%" height="30%"/>맵클릭시
 
-<img src="https://user-images.githubusercontent.com/48806275/129306913-e36cd653-f429-40af-a77f-0fdc9a7b8841.png" width="30%" height="30%"/>맵클릭시
+<img src="https://user-images.githubusercontent.com/48806275/129306913-e36cd653-f429-40af-a77f-0fdc9a7b8841.png" width="30%" height="30%"/>맵마커클릭시
 
 
-<img src="https://user-images.githubusercontent.com/48806275/129306914-5d40216a-eeb7-440e-922a-77c7419ced22.png" width="30%" height="30%"/>맵클릭시
+<img src="https://user-images.githubusercontent.com/48806275/129306914-5d40216a-eeb7-440e-922a-77c7419ced22.png" width="30%" height="30%"/>맵마커클릭시
 
 <img src="https://user-images.githubusercontent.com/48806275/129306922-1d62eac4-bc52-4a43-adf7-5c81f586d672.png" width="30%" height="30%"/>맵클릭주변사진
 
