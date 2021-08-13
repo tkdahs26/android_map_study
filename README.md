@@ -23,8 +23,6 @@ map 포트폴리오작성중 나중에 추가 설명붙힘
 <img src="https://user-images.githubusercontent.com/48806275/129306905-2d2aa08e-d1ae-4870-bd74-51acec6e0fc5.png" width="30%" height="30%"/>전화클릭
 
 
-<img src="https://user-images.githubusercontent.com/48806275/129306922-1d62eac4-bc52-4a43-adf7-5c81f586d672.png" width="30%" height="30%"/>위치변경15 맵클릭주변사진
-
 
 <img src="https://user-images.githubusercontent.com/48806275/129306907-f0bcdc70-2bb5-46e3-95fe-db2842077903.png" width="30%" height="30%"/>사이트클릭
 
@@ -37,6 +35,8 @@ map 포트폴리오작성중 나중에 추가 설명붙힘
 
 
 <img src="https://user-images.githubusercontent.com/48806275/129306914-5d40216a-eeb7-440e-922a-77c7419ced22.png" width="30%" height="30%"/>맵클릭시
+
+<img src="https://user-images.githubusercontent.com/48806275/129306922-1d62eac4-bc52-4a43-adf7-5c81f586d672.png" width="30%" height="30%"/>맵클릭주변사진
 
 
 <img src="https://user-images.githubusercontent.com/48806275/129306915-de5a86ae-02e9-481a-bafb-77071d83f844.png" width="30%" height="30%"/>사진없을시
