@@ -2,7 +2,7 @@
 map 포트폴리오작성중 나중에 추가 설명붙힘
 
 
-<img src="https://user-images.githubusercontent.com/48806275/129306883-81b86ff3-f941-4f7e-8cff-52ff4e8a4427.png " width="30%" height="30%"/>첫화면
+<img src="https://user-images.githubusercontent.com/48806275/129306883-81b86ff3-f941-4f7e-8cff-52ff4e8a4427.png " width="10%" height="10%"/>첫화면
 
 
 <img src="https://user-images.githubusercontent.com/48806275/129306889-a31397b8-abad-4e70-a5f6-81e939881219.png" width="30%" height="30%"/>마커클릭시
