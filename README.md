@@ -23,7 +23,7 @@ map 포트폴리오작성중
 
 <img src="https://user-images.githubusercontent.com/48806275/129306922-1d62eac4-bc52-4a43-adf7-5c81f586d672.png" width="30%" height="30%"/>
 
-![10](https://user-images.githubusercontent.com/48806275/129306907-f0bcdc70-2bb5-46e3-95fe-db2842077903.png){: width="100" height="100"}
+
 <img src="https://user-images.githubusercontent.com/48806275/129306907-f0bcdc70-2bb5-46e3-95fe-db2842077903.png" width="30%" height="30%"/>
 
 <img src="https://user-images.githubusercontent.com/48806275/129306922-1d62eac4-bc52-4a43-adf7-5c81f586d672.png" width="30%" height="30%"/>
