@@ -14,8 +14,8 @@ map 포트폴리오작성중 나중에 추가 설명붙힘
 <img src="https://user-images.githubusercontent.com/48806275/129306895-4c8b010b-6b81-4611-afae-dca7f23f2a4e.png" width="30%" height="30%"/>사진버튼클릭시
 <img src="https://user-images.githubusercontent.com/48806275/129306897-ae4b0991-61e9-4d0a-8d13-c361c7bd9a18.png" width="30%" height="30%"/>사진버튼클릭시
 
-<img src="https://user-images.githubusercontent.com/48806275/129306900-93d07785-b0a1-43f4-903c-c206c2dcfe41.png" width="30%" height="30%"/>사진요소 클릭시 어트리뷰트 게시자사진 리뷰
-<img src="https://user-images.githubusercontent.com/48806275/129306902-fce0860b-d2a0-46e3-ad93-a358a223b37d.png" width="30%" height="30%"/>사진요소 클릭시 어트리뷰트 게시자사진 리뷰
+<img src="https://user-images.githubusercontent.com/48806275/129306900-93d07785-b0a1-43f4-903c-c206c2dcfe41.png" width="30%" height="30%"/>위 사진요소 클릭시 어트리뷰트 게시자사진 리뷰
+<img src="https://user-images.githubusercontent.com/48806275/129306902-fce0860b-d2a0-46e3-ad93-a358a223b37d.png" width="30%" height="30%"/>위 사진요소 클릭시 어트리뷰트 게시자사진 리뷰
 
 <img src="https://user-images.githubusercontent.com/48806275/129306905-2d2aa08e-d1ae-4870-bd74-51acec6e0fc5.png" width="30%" height="30%"/>전화버튼클릭
 
