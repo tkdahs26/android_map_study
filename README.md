@@ -1,5 +1,5 @@
 # android
-map 포트폴리오작성중 나중에 추가 설명붙힘  개인프로젝트 세번째로만든것 사용함수 api json 인터페이스
+map 포트폴리오작성중 나중에 추가 설명붙힘  개인프로젝트 세번째로만든것 사용기술 api json 인터페이스
 
 
 <img src="https://user-images.githubusercontent.com/48806275/129306883-81b86ff3-f941-4f7e-8cff-52ff4e8a4427.png " width="20%" height="20%"/>첫화면 googlemaps api
