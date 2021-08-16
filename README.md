@@ -16,13 +16,11 @@ map 포트폴리오작성중 나중에 추가 설명붙힘  개인프로젝트 �
 
 <img src="https://user-images.githubusercontent.com/48806275/129306905-2d2aa08e-d1ae-4870-bd74-51acec6e0fc5.png" width="20%" height="20%"/>전화버튼클릭
 
-<img src="https://user-images.githubusercontent.com/48806275/129306907-f0bcdc70-2bb5-46e3-95fe-db2842077903.png" width="20%" height="20%"/>
-<img src="https://user-images.githubusercontent.com/48806275/129306911-ec0d69ca-afef-4c01-aaa8-87101db498e8.png" width="20%" height="20%"/>홈페이지버튼클릭
+<img src="https://user-images.githubusercontent.com/48806275/129306907-f0bcdc70-2bb5-46e3-95fe-db2842077903.png" width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/129306911-ec0d69ca-afef-4c01-aaa8-87101db498e8.png" width="20%" height="20%"/>홈페이지버튼클릭
 
 <img src="https://user-images.githubusercontent.com/48806275/129308795-a8ce25f8-8f33-4e2a-924e-0a994559558d.png" width="20%" height="20%"/>맵클릭시
 
-<img src="https://user-images.githubusercontent.com/48806275/129309199-ccd9c39f-0772-4bb9-ade4-d5a0d5c46722.png " width="20%" height="20%"/>
-<img src="https://user-images.githubusercontent.com/48806275/129309202-ea39ada6-0da4-4eeb-b6a9-3e330305c0ff.png" width="20%" height="20%"/>맵마커클릭
+<img src="https://user-images.githubusercontent.com/48806275/129309199-ccd9c39f-0772-4bb9-ade4-d5a0d5c46722.png " width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/129309202-ea39ada6-0da4-4eeb-b6a9-3e330305c0ff.png" width="20%" height="20%"/>맵마커클릭
 
 <img src="https://user-images.githubusercontent.com/48806275/129306922-1d62eac4-bc52-4a43-adf7-5c81f586d672.png" width="20%" height="20%"/>맵클릭주변사진버튼 클릭
 
