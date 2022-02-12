@@ -17,7 +17,7 @@
 
 <img src="https://user-images.githubusercontent.com/48806275/129306905-2d2aa08e-d1ae-4870-bd74-51acec6e0fc5.png" width="20%" height="20%"/>전화버튼클릭
 
-<img src="https://user-images.githubusercontent.com/48806275/129306907-f0bcdc70-2bb5-46e3-95fe-db2842077903.png" width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/129306911-ec0d69ca-afef-4c01-aaa8-87101db498e8.png" width="20%" height="20%"/>홈페이지버튼클릭
+<img src="https://user-images.githubusercontent.com/48806275/129306907-f0bcdc70-2bb5-46e3-95fe-db2842077903.png" width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/129306911-ec0d69ca-afef-4c01-aaa8-87101db498e8.png" width="20%" height="20%"/>홈페이지버튼클릭 해당 건물 홈페이지로 넘어감
 
 <img src="https://user-images.githubusercontent.com/48806275/129308795-a8ce25f8-8f33-4e2a-924e-0a994559558d.png" width="20%" height="20%"/>아무곳에 맵클릭: 해당 좌표에 마커생성 geocoder활용
 
