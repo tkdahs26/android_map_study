@@ -1,6 +1,6 @@
 # android
 #### 세번째 개인프로젝트 지도어플 ###
-
+사용기술 구글api android
 
 <img src="https://user-images.githubusercontent.com/48806275/129306883-81b86ff3-f941-4f7e-8cff-52ff4e8a4427.png " width="20%" height="20%"/>첫화면: 구글맵 nearbysearch api의 데이터로 주변 핵심건물 모양의 마커 생성
 
