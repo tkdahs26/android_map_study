@@ -25,7 +25,7 @@
 <img src="https://user-images.githubusercontent.com/48806275/129306922-1d62eac4-bc52-4a43-adf7-5c81f586d672.png" width="20%" height="20%"/>위 마커의 주변사진버튼 클릭: 마커의 주변 사진을 모아서 출력
 
 
-<img src="https://user-images.githubusercontent.com/48806275/129306915-de5a86ae-02e9-481a-bafb-77071d83f844.png" width="20%" height="20%"/>마커의 사진이 없다는 오류 나올시
+<img src="https://user-images.githubusercontent.com/48806275/129306915-de5a86ae-02e9-481a-bafb-77071d83f844.png" width="20%" height="20%"/>api에 마커의 사진이 없다는 오류 나올시
 
 <img src="https://user-images.githubusercontent.com/48806275/129306917-615f5225-3f1d-4204-baff-e2eb7c9e2325.png" width="20%" height="20%"/>검색창 클릭 
 <img src="https://user-images.githubusercontent.com/48806275/129306918-8cabd719-5722-4327-ad44-041f10d55d9e.png" width="20%" height="20%"/>검색 자동완성인터페이스 place autocomplete 활용 <img src="https://user-images.githubusercontent.com/48806275/129306919-87f4cbd7-91ef-414d-a923-ab3474cca715.png" width="20%" height="20%"/>검색했을시 해당 건물에 마커생성<img src="https://user-images.githubusercontent.com/48806275/129306921-44e70c20-f78a-453b-bd2e-081070ba3fc4.png" width="20%" height="20%"/>검색마커클릭
