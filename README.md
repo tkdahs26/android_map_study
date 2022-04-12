@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/48806275/129306883-81b86ff3-f941-4f7e-8cff-52ff4e8a4427.png " width="20%" height="20%"/>첫화면: 구글맵 nearbysearch api의 데이터로 주변 건물 모양의 마커 생성
 
 
-<img src="https://user-images.githubusercontent.com/48806275/129306889-a31397b8-abad-4e70-a5f6-81e939881219.png" width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/129306892-43f707db-b50a-4bd8-8eb5-deb5d232b9dd.png" width="20%" height="20%"/>해당 마커클릭: getInfoWindow인터페이스로 커스텀마커생성 마커정보는 구글 places api
+<img src="https://user-images.githubusercontent.com/48806275/129306889-a31397b8-abad-4e70-a5f6-81e939881219.png" width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/129306892-43f707db-b50a-4bd8-8eb5-deb5d232b9dd.png" width="20%" height="20%"/>해당 마커클릭: getInfoWindow인터페이스로 커스텀 정보창 생성 구글 places api 참고
 
 
 <img src="https://user-images.githubusercontent.com/48806275/129306893-f39ebb8f-e320-4e7f-872a-ba386cda1dbc.png" width="20%" height="20%"/>거리뷰버튼클릭: 마커 좌표의 거리뷰 streetview api 활용
