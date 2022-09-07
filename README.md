@@ -1,16 +1,16 @@
 # android
 #### 세번째 개인프로젝트 지도어플(주변탐색) ###
-사용기술 구글api android
+사용기술 google api android
 
-<img src="https://user-images.githubusercontent.com/48806275/129306883-81b86ff3-f941-4f7e-8cff-52ff4e8a4427.png " width="20%" height="20%"/>첫화면: 구글맵 nearbysearch api의 데이터로 건물 모양의 마커 생성
+<img src="https://user-images.githubusercontent.com/48806275/129306883-81b86ff3-f941-4f7e-8cff-52ff4e8a4427.png " width="20%" height="20%"/>첫화면: google nearbysearch api의 데이터로 건물 모양의 마커 생성
 
 
-<img src="https://user-images.githubusercontent.com/48806275/129306889-a31397b8-abad-4e70-a5f6-81e939881219.png" width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/129306892-43f707db-b50a-4bd8-8eb5-deb5d232b9dd.png" width="20%" height="20%"/>해당 마커클릭: getInfoWindow인터페이스로 커스텀 정보창 생성 구글 places api 참고
+<img src="https://user-images.githubusercontent.com/48806275/129306889-a31397b8-abad-4e70-a5f6-81e939881219.png" width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/129306892-43f707db-b50a-4bd8-8eb5-deb5d232b9dd.png" width="20%" height="20%"/>해당 마커클릭: getInfoWindow인터페이스로 커스텀 정보창 생성 places api 참고
 
 
 <img src="https://user-images.githubusercontent.com/48806275/129306893-f39ebb8f-e320-4e7f-872a-ba386cda1dbc.png" width="20%" height="20%"/>거리뷰버튼클릭: 마커 좌표의 거리뷰 streetview api 활용
 
-<img src="https://user-images.githubusercontent.com/48806275/129306895-4c8b010b-6b81-4611-afae-dca7f23f2a4e.png" width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/129306897-ae4b0991-61e9-4d0a-8d13-c361c7bd9a18.png" width="20%" height="20%"/>사진버튼클릭: 구글 api에 검색된 건물의 사진출력
+<img src="https://user-images.githubusercontent.com/48806275/129306895-4c8b010b-6b81-4611-afae-dca7f23f2a4e.png" width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/129306897-ae4b0991-61e9-4d0a-8d13-c361c7bd9a18.png" width="20%" height="20%"/>사진버튼클릭: api에 검색된 건물의 사진출력
 
 <img src="https://user-images.githubusercontent.com/48806275/129306900-93d07785-b0a1-43f4-903c-c206c2dcfe41.png" width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/129306902-fce0860b-d2a0-46e3-ad93-a358a223b37d.png" width="20%" height="20%"/>위 사진 클릭: 사진 게시자의 정보로 넘어감
 
