@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/48806275/129306889-a31397b8-abad-4e70-a5f6-81e939881219.png" width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/129306892-43f707db-b50a-4bd8-8eb5-deb5d232b9dd.png" width="20%" height="20%"/>주변 건물의 마커클릭: 구글 인터페이스를 활용하여 해당 건물의 사진과 정보를 받아옴
 
 
-<img src="https://user-images.githubusercontent.com/48806275/129306893-f39ebb8f-e320-4e7f-872a-ba386cda1dbc.png" width="20%" height="20%"/>거리뷰버튼클릭: 마커 좌표의 거리뷰 streetview api 활용
+<img src="https://user-images.githubusercontent.com/48806275/129306893-f39ebb8f-e320-4e7f-872a-ba386cda1dbc.png" width="20%" height="20%"/>거리뷰버튼클릭: 거리뷰 api 활용 건물의 거리뷰를 보여줌
 
 <img src="https://user-images.githubusercontent.com/48806275/129306895-4c8b010b-6b81-4611-afae-dca7f23f2a4e.png" width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/129306897-ae4b0991-61e9-4d0a-8d13-c361c7bd9a18.png" width="20%" height="20%"/>사진버튼클릭: api에 검색된 건물의 사진출력
 
