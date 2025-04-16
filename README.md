@@ -18,9 +18,9 @@
 
 <img src="https://user-images.githubusercontent.com/48806275/129306907-f0bcdc70-2bb5-46e3-95fe-db2842077903.png" width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/129306911-ec0d69ca-afef-4c01-aaa8-87101db498e8.png" width="20%" height="20%"/>첫번째 사진의 홈페이지버튼클릭 해당 건물 홈페이지로 넘어감
 
-<img src="https://user-images.githubusercontent.com/48806275/129308795-a8ce25f8-8f33-4e2a-924e-0a994559558d.png" width="20%" height="20%"/>아무곳에 클릭: 해당 좌표에 마커생성 geocoder활용
+<img src="https://user-images.githubusercontent.com/48806275/129308795-a8ce25f8-8f33-4e2a-924e-0a994559558d.png" width="20%" height="20%"/>아무곳 클릭:geocoder활용하여 클릭한곳에 마커생성
 
-<img src="https://user-images.githubusercontent.com/48806275/129309199-ccd9c39f-0772-4bb9-ade4-d5a0d5c46722.png " width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/129309202-ea39ada6-0da4-4eeb-b6a9-3e330305c0ff.png" width="20%" height="20%"/>아무곳의 마커 클릭: geocoder api 이용하여 클릭한곳의 주소 출력 
+<img src="https://user-images.githubusercontent.com/48806275/129309199-ccd9c39f-0772-4bb9-ade4-d5a0d5c46722.png " width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/129309202-ea39ada6-0da4-4eeb-b6a9-3e330305c0ff.png" width="20%" height="20%"/>위 사진의 마커 클릭: geocoder api 이용하여 클릭한곳의 주소 출력 
 
 <img src="https://user-images.githubusercontent.com/48806275/129306922-1d62eac4-bc52-4a43-adf7-5c81f586d672.png" width="20%" height="20%"/>위 마커의 주변사진버튼 클릭: 마커의 주변 사진을 모아서 출력
 
