@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/48806275/129306883-81b86ff3-f941-4f7e-8cff-52ff4e8a4427.png " width="20%" height="20%"/>첫화면: google api를 활용하여 주변에 있는 건물들에 마킹하기 
 
 
-<img src="https://user-images.githubusercontent.com/48806275/129306889-a31397b8-abad-4e70-a5f6-81e939881219.png" width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/129306892-43f707db-b50a-4bd8-8eb5-deb5d232b9dd.png" width="20%" height="20%"/>해당 마커클릭: getInfoWindow인터페이스로 커스텀 정보창 생성 places api 참고
+<img src="https://user-images.githubusercontent.com/48806275/129306889-a31397b8-abad-4e70-a5f6-81e939881219.png" width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/129306892-43f707db-b50a-4bd8-8eb5-deb5d232b9dd.png" width="20%" height="20%"/>해당 마커클릭: 구글 인터페이스를 활용하여 해당 건물의 사진과 정보를 받아옴
 
 
 <img src="https://user-images.githubusercontent.com/48806275/129306893-f39ebb8f-e320-4e7f-872a-ba386cda1dbc.png" width="20%" height="20%"/>거리뷰버튼클릭: 마커 좌표의 거리뷰 streetview api 활용
