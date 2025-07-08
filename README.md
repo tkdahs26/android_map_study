@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/48806275/129306883-81b86ff3-f941-4f7e-8cff-52ff4e8a4427.png " width="20%" height="200%"/>첫화면: google api를 활용하여 주변에 있는 건물들에 마킹하기 
 
 
-<img src="https://user-images.githubusercontent.com/48806275/129306889-a31397b8-abad-4e70-a5f6-81e939881219.png" width="20%" height="200%"/><img src="https://user-images.githubusercontent.com/48806275/129306892-43f707db-b50a-4bd8-8eb5-deb5d232b9dd.png" width="20%" height="20%"/>주변 건물의 마커클릭: 구글 인터페이스를 활용하여 해당 건물의 사진과 정보를 받아옴
+<img src="https://user-images.githubusercontent.com/48806275/129306889-a31397b8-abad-4e70-a5f6-81e939881219.png" width="20%" height="200%"/><img src="https://user-images.githubusercontent.com/48806275/129306892-43f707db-b50a-4bd8-8eb5-deb5d232b9dd.png" width="20%" height="200%"/>주변 건물의 마커클릭: 구글 인터페이스를 활용하여 해당 건물의 사진과 정보를 받아옴
 
 
 <img src="https://user-images.githubusercontent.com/48806275/129306893-f39ebb8f-e320-4e7f-872a-ba386cda1dbc.png" width="20%" height="200%"/>첫번째 사진의 거리뷰버튼클릭: 거리뷰 api 활용 건물의 거리뷰를 보여줌
@@ -20,7 +20,7 @@
 
 <img src="https://user-images.githubusercontent.com/48806275/129308795-a8ce25f8-8f33-4e2a-924e-0a994559558d.png" width="20%" height="200%"/>아무곳 클릭:geocoder활용하여 클릭한곳에 마커생성
 
-<img src="https://user-images.githubusercontent.com/48806275/129309199-ccd9c39f-0772-4bb9-ade4-d5a0d5c46722.png " width="20%" height="200%"/><img src="https://user-images.githubusercontent.com/48806275/129309202-ea39ada6-0da4-4eeb-b6a9-3e330305c0ff.png" width="20%" height="20%"/>위 사진의 마커 클릭: geocoder api 이용하여 클릭한곳의 주소 출력 
+<img src="https://user-images.githubusercontent.com/48806275/129309199-ccd9c39f-0772-4bb9-ade4-d5a0d5c46722.png " width="20%" height="200%"/><img src="https://user-images.githubusercontent.com/48806275/129309202-ea39ada6-0da4-4eeb-b6a9-3e330305c0ff.png" width="20%" height="200%"/>위 사진의 마커 클릭: geocoder api 이용하여 클릭한곳의 주소 출력 
 
 <img src="https://user-images.githubusercontent.com/48806275/129306922-1d62eac4-bc52-4a43-adf7-5c81f586d672.png" width="20%" height="200%"/>위 사진의 주변사진버튼 클릭: 마커의 주변 사진을 모아서 출력
 
