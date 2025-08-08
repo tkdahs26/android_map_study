@@ -1,6 +1,6 @@
 # android
 #### 세번째 개인 어플만들기 주변탐색하는 지도 ###
-사용기술 google api android
+사용기술 google api json java
 
 <img src="https://user-images.githubusercontent.com/48806275/129306883-81b86ff3-f941-4f7e-8cff-52ff4e8a4427.png " width="20%" height="200%"/>첫화면: google api를 활용하여 주변에 있는 건물들에 마킹하기 
 
